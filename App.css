@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
+    background-color: #281e3d;
+}
+
+.title-equisearch {
+    color: #281e3d;
+    border-color: teal;
+    font-weight: 200;
+}
+
+.text-muted {
+    padding-bottom: 20px;
+}
+
+.custom-btn {
+    background-color: #d1c1d4;
+    border-color: aquamarine;
+    height: 50px;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.text-muted {
+    padding-left: 90px;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
+.formText {
+    color: white;
+}
+
+.form-container {
+    margin-top: 60px;
+    color: white;
+}
+
+.cookingCard {
+    padding-top: 20px;
+}
+
+.cardTitle {
+    font-size: 15px;
+    color: white;
+
+}
+
+.cardBody {
+    padding-top: 30px;
+    background-color: #281e3d;
+}
+
+#navBar {
+    color: #695F72;
+}
